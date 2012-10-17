@@ -1,4 +1,4 @@
 google-geocode-4j
 =================
 
-Java support lib for Google Geocoding API (V3)
+Google Geocoding API (V3) support for Java (google-geocode-4j)
